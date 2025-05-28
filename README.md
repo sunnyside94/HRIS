@@ -11,3 +11,5 @@ Use methods (like GET, POST, PATCH, DELETE) to pull or change data
 
 # This Project
 Since I do not have access to Oracle Fusion, I will demonstrate my technical capabilities in this project by utilizing publicly available APIs and mock data. I will showcase my expertise in ETL processes, data visualization, and the development of meaningful metrics, all aimed at enabling insightful and data-driven decision-making.
+
+
