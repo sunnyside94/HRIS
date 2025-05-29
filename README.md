@@ -13,10 +13,6 @@ Since I do not have access to Oracle Fusion, I will demonstrate my technical cap
 
 # Process
 1. Required Libraries
-   !pip install pandas
-   !pip install pandas-gbq
-   !pip install google-cloud-bigquery
-   !pip install pandasql
 2. Create Dummy HR Data using Mockaroo
 3. Consume Data in Google Colab
 4. Transform Data
